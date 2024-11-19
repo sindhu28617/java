@@ -10,7 +10,6 @@ package AllProgram
 		    public static void main(String[] args) {
 		        int num1 = 4; // First number
 		        int num2 = 8; // Second number
-
 		        
 		        int total = add(num1, num2);
 
